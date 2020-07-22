@@ -14,7 +14,7 @@ user.send_keys("gastonarios@yahoo.com.ar")
 
 passw = driver.find_element_by_id("pass")
 passw.clear()
-passw.send_keys("cancu233231685")
+passw.send_keys("")
 
 passw.send_keys(Keys.RETURN)
 
